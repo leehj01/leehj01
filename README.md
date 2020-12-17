@@ -1,8 +1,10 @@
 ## HWA JUNG LEE 👋
 
+### Stack 
+Python 
 
-
-## Stack 
+### Certificate 
+- Sqld
 
 
 <!--
