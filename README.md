@@ -4,7 +4,7 @@
 ## Stack 
 - Python 
 
-## RPOJECT
+## RPOJECT 😄
 그동안 수행했던 공모전 및 프로젝트 
 - BIG CONTEST 공모전 : Innovation  분야 **( 상위3% - 본선 진출 )** 2020.08 - 09
 - BIG CONTEST 공모전 : Analysis 분야 2020.08 - 09
