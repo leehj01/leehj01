@@ -1,4 +1,5 @@
 # HWA JUNG LEE 👋
+공부하는 것을 기록하는 BLOG : https://hazel01.tistory.com/
 
 ## Stack 
 - Python 
