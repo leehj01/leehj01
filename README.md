@@ -1,12 +1,14 @@
 # HWA JUNG LEE 👋
+Data Analyst
+
 공부하는 것을 기록하는 BLOG : https://hazel01.tistory.com/
 
 ## Stack 
 - Python 
 
-## RPOJECT 😄
+## RPOJECT 💬
 그동안 수행했던 공모전 및 프로젝트 
-- BIG CONTEST 공모전 : Innovation  분야 **( 상위3% - 본선 진출 )** 2020.08 - 09
+- BIG CONTEST 공모전 : Innovation 분야 **( 상위3% - 본선 진출 )** 2020.08 - 09
 - BIG CONTEST 공모전 : Analysis 분야 2020.08 - 09
 - 비정형 데이터 기반 스타트업 기업평가 서비스 : 한국 소프트웨어 산업 협회(KOSA) 프로젝트  2020.07 - 08
 - Kakao Arena 공모전 : Melon Playlist Continuation  **( 47등 / 785팀 )** 2020.05 - 07
