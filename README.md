@@ -6,7 +6,7 @@ Data Analyst
 ## Stack 
 - Python 
 
-## RPOJECT 💬
+## RPOJECT 🐣
 그동안 수행했던 공모전 및 프로젝트 
 - BIG CONTEST 공모전 : Innovation 분야 **( 상위3% - 본선 진출 )** 2020.08 - 09
 - BIG CONTEST 공모전 : Analysis 분야 2020.08 - 09
@@ -16,10 +16,14 @@ Data Analyst
 - 신용카드 마케팅 keyword searcher : 아시아경제 프로젝트 **( 우수상 )** 2020.02
 - 한국은행 논문 구현 프로젝트 - 비정형 데이터를 이용한 금리 예측  2020.02
 
+## EXPERIENCE 💬
+- 자연어 처리 스터디 2020.11 ~ ing
+- ㈜씨프로 | CCTV AI 영상 처리 계약직 2020.09 - 2020.12
 
-## Certificate 
+
+## Certificate 📔
 - Sqld
-
+- GAIQ ( Google Analytics Individual Qualification )
 
 <!--
 **leehj01/leehj01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
