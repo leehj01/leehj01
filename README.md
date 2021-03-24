@@ -1,7 +1,9 @@
 # HWA JUNG LEE 👋
-Data Analyst
 
-공부하는 것을 기록하는 BLOG : https://hazel01.tistory.com/
+### Data Analyst
+
+<h4><b> 😄 기록하는 공간 ✏️ </b></h4>
+BLOG : https://hazel01.tistory.com/
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
