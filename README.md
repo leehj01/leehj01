@@ -1,4 +1,4 @@
-# HWA JUNG LEE 👋
+## HWA JUNG LEE 👋
 
 ### Data Analyst
 
