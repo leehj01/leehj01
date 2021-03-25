@@ -2,9 +2,7 @@
 
 ### Data Analyst
 
-<h4><b> 😄 기록하는 공간 ✏️ </b></h4>
-
-[BLOG](https://hazel01.tistory.com/)
+[😄 기록하는 공간 ✏️](https://hazel01.tistory.com/)
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
