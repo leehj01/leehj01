@@ -2,15 +2,10 @@
 
 ### Data Analyst
 
-**CONTACT 💬**
-</br>
-✉️ [**Email**](leehj_01@naver.com)
-🦊 [**Github**](https://github.com/leehj01)
-💻 [**Blog**](https://hazel01.tistory.com/)
+**CONTACT**  👉 |  ✉️ [**Email**](leehj_01@naver.com) | 🦊 [**Github**](https://github.com/leehj01) | 💻 [**Blog**](https://hazel01.tistory.com/)
 
 
-<h3><b>🛠 Tech Stack 🛠</b></h3>
-</br>
+<h2><b>🛠 Tech Stack 🛠</b></h2>
 
 **MAIN STACK ⭐**
 <p>
