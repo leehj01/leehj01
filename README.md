@@ -6,7 +6,7 @@
 
 </br>
 
-<h2><b>🛠 Tech Stack 🛠</b></h2>
+<!-- h2><b> Tech Stack </b></h2-->
 
 **MAIN STACK ⭐**
 <p>
@@ -15,7 +15,7 @@
 </p>
 </br>
 
-**SUB STACK ⭐**
+**SUB STACK 🛠**
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> 
