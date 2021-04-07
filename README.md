@@ -2,7 +2,10 @@
 
 ### Data Analyst
 
-**CONTACT**  👉 |  ✉️ [**Email**](leehj_01@naver.com) | 🦊 [**Github**](https://github.com/leehj01) | 💻 [**Blog**](https://hazel01.tistory.com/)
+**CONTACT** </br> 
+✉️ **Email** | leehj_01@naver.com </br>
+🦊 [**Github**](https://github.com/leehj01) | 공부한 코드 </br>
+💻 [**Blog**](https://hazel01.tistory.com/) | 공부한 것을 정리한 blog
 
 </br>
 
