@@ -2,11 +2,11 @@
 
 ### Data Analyst
 
-**CONTACT** </br> 
+**CONTACT** <p>
 ✉️ **Email** | leehj_01@naver.com </br>
 🦊 [**Github**](https://github.com/leehj01) | 공부한 기록 및 프로젝트 </br>
 💻 [**Blog**](https://hazel01.tistory.com/) | 공부한 것을 정리한 blog </br>
-
+</p>
 
 </br>
 
@@ -19,10 +19,11 @@
 </p>
 </br>
 
-**STUDY**
+**STUDY 📝**
+<p>
 2020.12 -   ~ ing | NLP Paper Review Study ( 논문 리뷰 스터디 ) </br>
 2021.02 -   ~ ing | PYTHON Coding Test Study  
-
+</p>
 <!-- 
 **SUB STACK 🛠**
 <p>
