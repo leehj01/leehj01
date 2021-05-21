@@ -19,6 +19,10 @@
 </p>
 </br>
 
+**STUDY**
+2020.12 -   ~ ing | NLP Paper Review Study ( 논문 리뷰 스터디 ) 
+2021.02 -   ~ ing | PYTHON Coding Test Study  
+
 <!-- 
 **SUB STACK 🛠**
 <p>
