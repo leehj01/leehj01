@@ -19,7 +19,7 @@
 </p>
 </br>
 
-**STUDY 📝**
+**진행중인 STUDY 📝**
 
 `2021.02 -   ~ ing`  | PYTHON Coding Test Study  
 `2020.12 -   ~ ing`  | NLP Paper Review Study ( 논문 리뷰 스터디 ) </br>
